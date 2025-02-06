@@ -44,29 +44,29 @@ I’m Moyin Odumewu, a Marine Biology graduate who has transitioned from tide ch
 
 ---
 
-## 📌 Featured Projects
-### 🏆 [Furniture Sales and Revenue Analysis](#)
+##  Featured Projects
+###  [Furniture Sales and Revenue Analysis](https://github.com/M0Data/Furniture-sales-and-revenue-analysis)
 - Analyzed furniture sales trends and revenue streams using Excel
 - Created dashboards to visualize customer preferences and product performance
 
-### 🎥 [Netflix User Behavior and Revenue Analysis](#)
+###  [Netflix User Behavior and Revenue Analysis](https://github.com/M0Data/Netflix-user-behaviour-and-revenue-insight)
 - Used SQL and Power BI to analyze user viewing habits and revenue generation
 - Provided insights on customer retention and content performance
 
-### 📞 [Call Center Dashboard](#)
+###  [Call Center Dashboard](https://github.com/M0Data/Call-center-Dashboard)
 - Built an interactive Power BI dashboard to track call center performance
 - Analyzed response times, customer satisfaction, and agent efficiency
 
-### 🌐 [Comprehensive Web Traffic Analysis](#)
+###  [Comprehensive Web Traffic Analysis](https://github.com/M0Data/Comprehensive-Web-Traffic-Analysis)
 - Conducted in-depth web traffic analysis to optimize marketing strategies
 - Used Excel to generate key performance insights
 
-### 🏪 [59th Store Sales and Performance Analysis](#)
+###  [59th Store Sales and Performance Analysis](https://github.com/M0Data/59th-Store-Sales-and-Performance-Analysis)
 - Created an Excel dashboard for sales trends and revenue growth
 - Developed data-driven pricing and restocking strategies
 
-## 📬 Let's Connect!
+##  Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/moyin-odumewu)
 - 📧 **Email**: odumewumoyin@gmail.com
-- 🌐 **Portfolio ([Portfolio!](https://m0data.github.io/MoyinOdumewu.github.io/))**
+- 🌐 **([PORTFOLIO!](https://m0data.github.io/MoyinOdumewu.github.io/))**
 
