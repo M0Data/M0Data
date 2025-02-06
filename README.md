@@ -15,6 +15,16 @@ I’m Moyin Odumewu, a Marine Biology graduate who has transitioned from tide ch
 
 ---
 
+## Skills & Tools
+- **Excel**: Pivot tables, Power Query, VLOOKUP/XLOOKUP, Macros
+- **SQL**: Writing complex queries, joins, window functions, and database management
+- **Power BI**: Creating interactive dashboards, DAX, data - modeling
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, data wrangling, web scrapping and automation
+- **Data Cleaning & Transformation**: Ensuring high data quality for analysis
+- **Visualization & Reporting**: Presenting insights clearly for stakeholders
+
+---
+
 ## What I Can Do
 
 ### Data Analysis & Visualization:
@@ -34,7 +44,29 @@ I’m Moyin Odumewu, a Marine Biology graduate who has transitioned from tide ch
 
 ---
 
-## What I’m Working Toward
-I am excited to apply my scientific knowledge, customer service experience, and data analysis skills in an entry-level **Data Analyst** role. My adaptability, attention to detail, and eagerness to learn make me well-equipped to support professionals and businesses with administrative and analytical tasks.
+## 📌 Featured Projects
+### 🏆 [Furniture Sales and Revenue Analysis](#)
+- Analyzed furniture sales trends and revenue streams using Excel
+- Created dashboards to visualize customer preferences and product performance
 
-Let’s collaborate and turn data into meaningful insights! 🚀
+### 🎥 [Netflix User Behavior and Revenue Analysis](#)
+- Used SQL and Power BI to analyze user viewing habits and revenue generation
+- Provided insights on customer retention and content performance
+
+### 📞 [Call Center Dashboard](#)
+- Built an interactive Power BI dashboard to track call center performance
+- Analyzed response times, customer satisfaction, and agent efficiency
+
+### 🌐 [Comprehensive Web Traffic Analysis](#)
+- Conducted in-depth web traffic analysis to optimize marketing strategies
+- Used Excel to generate key performance insights
+
+### 🏪 [59th Store Sales and Performance Analysis](#)
+- Created an Excel dashboard for sales trends and revenue growth
+- Developed data-driven pricing and restocking strategies
+
+## 📬 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/moyin-odumewu)
+- 📧 **Email**: odumewumoyin@gmail.com
+- 🌐 **Portfolio ([Portfolio!](https://m0data.github.io/MoyinOdumewu.github.io/))**
+
