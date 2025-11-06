@@ -1,17 +1,22 @@
 # Who I Am
-I’m Moyin Odumewu, a Marine Biology graduate who has transitioned from tide charts to pivot charts. With a scientific approach, a passion for problem-solving, and a drive to uncover actionable insights, I’m carving a path as an entry-level Data Analyst. Armed with skills in Excel, SQL, Power BI, and a growing proficiency in Python, I’m ready to explore the vast world of data.
+I’m Moyin Odumewu, a Data Analyst with 3+ years of experience transforming business data into actionable insights that drive product growth, marketing efficiency, and customer retention.  Skilled in SQL, Python, Power BI, and statistical modelling, with a strong record of developing dashboards and A/B testing frameworks that guide product and marketing strategy. Adept at collaborating across cross-functional teams to align analytics with business and product goals. 
 
 ---
 
 ## My Experience
 
 ### Educational Background:
-- **B.Sc. in Marine Biology** from the University of Lagos, where I developed strong research, analytical, and problem-solving skills.
-
-### Professional Experience:
-- **Social Media Manager, Urbanboxed**: Created engaging weekly content, analyzed web traffic, and optimized audience engagement.
-- **Telesales Customer Service, Jumia Nigeria**: Over a year of experience honing communication, problem-solving, and interpersonal skills.
-- **Owner, 59th Store**: Combined data analysis and social media strategies to boost online sales and engagement.
+- **DATA  ANALYST  INTERN  -EBO Corp- Remote**                                                                                                                 April, 2025- June, 2025
+• Supported HR and team leads by delivering insights on staff workload distribution, campaign contribution, and performance metrics.
+• Automated internal reporting workflows, making routine HR and engagement reporting faster and more reliable.
+• Analyzed behavioural and engagement data to highlight communication patterns, identify bottlenecks, and recommend improvements to team structure and collaboration.
+**Strategic Data Analyst  -EBO Corp- Remote**                                                                                                                         July 2025 – Present 
+• Led research-driven analyses to understand user behaviour, product adoption, campaign responses, and engagement trends.
+• Conducted deep dives using SQL and Python to uncover insights informing product strategy, marketing direction, and customer experience improvements.
+• Built dashboards that presented research findings, user trends, and performance KPIs in clear and digestible formats for leadership.
+• Designed and executed A/B tests, analysed results, and translated findings into strategic recommendations.
+• Synthesised complex datasets into structured research reports used for quarterly planning and strategic reviews.
+• Collaborated with product, marketing, and operations teams to explore data-driven hypotheses and validate assumptions.
 
 ---
 
