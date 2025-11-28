@@ -1,109 +1,84 @@
-# Hi, I’m Moyin Odumewu  
+# Hi, I’m **Moyin Odumewu** 👋  
 
-I’m a **Data Analyst** with **3+ years of experience** transforming complex business data into **actionable insights** that fuel product growth, marketing efficiency, and customer retention.  
+I’m a **Sales & Marketing Data Analyst** with **3+ years of experience** helping businesses understand their customers, optimize marketing performance, and increase revenue.
 
-I’m passionate about leveraging **data storytelling, SQL, Power BI, and Python** to turn raw data into meaningful business value. My analytical mindset, scientific background, and collaborative spirit allow me to bridge the gap between data and decisions.  
+I specialize in transforming raw data into **clear insights, sales trends, customer behavior patterns, and marketing ROI dashboards** that drive business growth.  
+
+With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical depth with data storytelling — making data easy for teams to act on.
 
 ---
 
-##  Education  
+## 🎓 Education  
 
 - **Bachelor of Science (B.Sc.) in Marine Biology**  
   _University of Lagos, Akoka, Lagos_ — **October 2021**  
 
 - **Certificate in Data Analysis**  
   _IJAN Africa, Lagos_ — **January 2025**  
-  *Skilled in Advanced Excel, SQL, Power BI, and Python*  
+  *Advanced Excel, SQL, Python, Power BI*
 
 ---
 
-##  Experience  
+## 🧠 Core Competencies  
 
-### **Strategic Data Analyst — EBO Corp (Remote)**  
-  **July 2025 – Present**  
-
-- Lead research-driven analyses to uncover user behavior, product adoption, and engagement patterns.  
-- Conduct deep dives with **SQL** and **Python** to guide product, marketing, and experience strategy.  
-- Built **Power BI dashboards** visualizing KPIs and performance trends for leadership.  
-- Designed and analyzed **A/B tests**, translating results into actionable business recommendations.  
-- Synthesized findings into quarterly research reports supporting strategic reviews.  
-- Collaborated across product, marketing, and operations to validate hypotheses and drive innovation.  
-
-### **Data Analyst Intern — EBO Corp (Remote)**  
- **April 2025 – June 2025**  
-
-- Delivered insights on staff workload distribution, campaign performance, and engagement metrics.  
-- Automated HR reporting workflows to improve reliability and reduce reporting time.  
-- Analyzed team communication and behavioral patterns, identifying bottlenecks and proposing solutions.  
-
----
-
-##  Core Competencies  
-
-- Quantitative Research & Data Exploration  
-- Growth & Marketing Analytics  
+- Sales Performance Analysis  
+- Marketing Analytics & Web Insights  
+- Customer Behavior & Retention Analysis  
 - SQL, Python (Pandas, NumPy, SciPy)  
-- Visualization (Power BI)  
-- Data Governance & Modeling  
-- Analytical Storytelling  
-- Survey & Behavioral Insights  
+- KPI Dashboard Development (Power BI, Excel)  
+- A/B Testing & Cohort Analysis  
+- Analytical Storytelling & Stakeholder Communication
 
 ---
 
-##  Skills  
+## 🛠️ Technical Skills  
 
 | Category | Tools & Expertise |
 |-----------|------------------|
-| **Analytical Tools** | Excel, Power BI, Power Query |
-| **Programming Languages** | SQL, Python (Pandas, NumPy, Matplotlib, SciPy) |
-| **Statistical Analysis** | A/B Testing, Regression, Clustering, Multivariate Testing |
-| **Digital Marketing** | Google Analytics, SEO |
-| **Soft Skills** | Strategic Thinking, Stakeholder Communication, Attention to Detail, Collaboration |
-| **Creative Tools** | Canva (design, video edit, picture edit, website design) |
+| **Analytics & BI Tools** | Power BI, Excel, Power Query |
+| **Programming** | SQL, Python (Pandas, NumPy, Matplotlib, SciPy) |
+| **Marketing Analytics** | Google Analytics, SEO basics, traffic attribution |
+| **Statistics** | A/B Testing, Forecasting, Clustering |
+| **Soft Skills** | Strategic Thinking, Problem-Solving, Communication |
+| **Creative Tools** | Canva (dashboards, visuals, presentations) |
 
 ---
 
-##  Projects  
+## 📊 Featured Sales & Marketing Projects  
 
-###  [Furniture Sales and Revenue Analysis](https://github.com/M0Data/Furniture-sales-and-revenue-analysis)
-- Analyzed furniture sales and revenue trends using Excel.  
-- Created interactive dashboards visualizing customer preferences and product performance.  
+### 🔹 [Retail Sales & Revenue Dashboard](https://github.com/M0Data/Retail-Sales-and-Revenue-Dashboard)
+- Analyzed multi-category furniture sales to uncover trends and seasonal performance shifts.  
+- Developed a revenue dashboard showing top products, customer segments, and profit insights.
 
-###  [Netflix User Behaviour and Revenue Insights](https://github.com/M0Data/Netflix-user-behaviour-and-revenue-insight)  
-- Led a team to analyze user behavior and revenue data using SQL, Power BI, and Excel.  
-- Recommended pricing and marketing strategies to boost engagement and revenue.  
+### 🔹 [Subscription & Customer-Behavior Analytics](https://github.com/M0Data/Subscription-and-Customer-Behavior-Analytics)
+- Led a data team analyzing user engagement, churn patterns, and revenue opportunities.  
+- Delivered insights to guide pricing, retention strategies, and content marketing direction.
 
-###  [Loan Analysis Dashboard](#)
-- Conducted loan performance analysis using Power BI to assess disbursement and recovery rates.  
-- Identified ₦2.29B in disbursements with a low recovery rate (44.1%) and proposed actionable improvements.  
+### 🔹 [Customer Support & Sales Operations Dashboard](https://github.com/M0Data/Customer-Support-and-Sales-Operations-Analysis)
+- Built a performance dashboard analyzing call volume, agent efficiency, and customer experience.  
+- Linked support interactions to satisfaction scores and service bottlenecks.
 
-###  [Call Center Dashboard](https://github.com/M0Data/Call-center-Dashboard)
-- Developed an interactive Power BI dashboard tracking call center metrics.  
-- Analyzed agent performance, response times, and customer satisfaction.  
+### 🔹 [Web Traffic & Marketing Funnel Analysis](https://github.com/M0Data/Comprehensive-Web-Traffic-Analysis)
+- Analyzed marketing traffic sources and user behavior.  
+- Identified high-ROI channels and conversion opportunities.
 
-###  [Comprehensive Web Traffic Analysis](https://github.com/M0Data/Comprehensive-Web-Traffic-Analysis)
-- Performed in-depth web analytics to optimize marketing strategies.  
-- Delivered performance insights using Excel and visualization tools.  
 
-###  [59th Store Sales and Performance Analysis](https://github.com/M0Data/59th-Store-Sales-and-Performance-Analysis)
-- Built a sales performance dashboard for a thrift store.  
-- Provided data-backed pricing and restocking recommendations.  
 
 ---
 
-##  Achievements  
+## 🏆 Achievements  
 
-- Led analytical projects that improved internal reporting efficiency and informed strategic decisions.  
-- Delivered actionable insights leading to improved product engagement and marketing performance.  
-- Recognized for transforming raw data into compelling narratives that influence leadership direction.  
+- Improved marketing and product decision-making through actionable customer insights.  
+- Delivered dashboards that increased reporting accuracy and reduced analysis time.  
+- Recognized for transforming complex data into **clear narratives** that influence leadership decisions.
 
 ---
 
 ## 📬 Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moyin-odumewu)  
-- 🌐 [Portfolio](https://m0data.github.io/MoyinOdumewu.github.io/)  
-- 📧 [Email](mailto:odumewumoyin@gmail.com)  
-- 📍 Lagos, Nigeria  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/moyin-odumewu  
+- 🌐 **Portfolio:** https://m0data.github.io/MoyinOdumewu.github.io/  
+- 📧 **Email:** odumewumoyin@gmail.com  
+- 📍 **Location:** Lagos, Nigeria  
 
 ---
