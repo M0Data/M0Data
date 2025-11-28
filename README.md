@@ -1,4 +1,4 @@
-# Hi, I’m **Moyin Odumewu** 👋  
+# Hi, I’m **Moyin Odumewu**  
 
 I’m a **Sales & Marketing Data Analyst** with **3+ years of experience** helping businesses understand their customers, optimize marketing performance, and increase revenue.
 
@@ -19,7 +19,7 @@ With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical
 
 ---
 
-## 🧠 Core Competencies  
+##  Core Competencies  
 
 - Sales Performance Analysis  
 - Marketing Analytics & Web Insights  
@@ -31,7 +31,7 @@ With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical
 
 ---
 
-## 🛠️ Technical Skills  
+##  Technical Skills  
 
 | Category | Tools & Expertise |
 |-----------|------------------|
@@ -44,7 +44,7 @@ With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical
 
 ---
 
-## 📊 Featured Sales & Marketing Projects  
+##  Featured Sales & Marketing Projects  
 
 ### 🔹 [Retail Sales & Revenue Dashboard](https://github.com/M0Data/Retail-Sales-and-Revenue-Dashboard)
 - Analyzed multi-category furniture sales to uncover trends and seasonal performance shifts.  
@@ -66,7 +66,7 @@ With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical
 
 ---
 
-## 🏆 Achievements  
+##  Achievements  
 
 - Improved marketing and product decision-making through actionable customer insights.  
 - Delivered dashboards that increased reporting accuracy and reduced analysis time.  
@@ -74,11 +74,11 @@ With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical
 
 ---
 
-## 📬 Let’s Connect  
+##  Let’s Connect  
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/moyin-odumewu  
-- 🌐 **Portfolio:** https://m0data.github.io/MoyinOdumewu.github.io/  
-- 📧 **Email:** odumewumoyin@gmail.com  
-- 📍 **Location:** Lagos, Nigeria  
+-  **LinkedIn:** https://www.linkedin.com/in/moyin-odumewu  
+-  **Portfolio:** https://m0data.github.io/MoyinOdumewu.github.io/  
+-  **Email:** odumewumoyin@gmail.com  
+-  **Location:** Lagos, Nigeria  
 
 ---
