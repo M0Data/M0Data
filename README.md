@@ -8,7 +8,7 @@ With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical
 
 ---
 
-## 🎓 Education  
+##  Education  
 
 - **Bachelor of Science (B.Sc.) in Marine Biology**  
   _University of Lagos, Akoka, Lagos_ — **October 2021**  
