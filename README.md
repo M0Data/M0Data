@@ -1,84 +1,83 @@
-# Hi, I’m **Moyin Odumewu**  
+# Hi, I’m **Moyin Odumewu**
 
-I’m a **Sales & Marketing Data Analyst** with **3+ years of experience** helping businesses understand their customers, optimize marketing performance, and increase revenue.
+I’m a **Data Analyst** with **2+ years of experience** delivering **data analysis, business intelligence, reporting, and dashboard insights** that support data-driven decision-making across operations, customers, and revenue performance.
 
-I specialize in transforming raw data into **clear insights, sales trends, customer behavior patterns, and marketing ROI dashboards** that drive business growth.  
+I specialize in **SQL, Excel, Power BI, and Python**, working across the full analytics lifecycle including **data collection, data cleaning, data transformation, ETL processes, KPI monitoring, trend analysis, dashboard development, and performance reporting**.
 
-With strong skills in **Power BI, Excel, SQL, and Python**, I combine analytical depth with data storytelling — making data easy for teams to act on.
+My work focuses on transforming complex datasets into **clear business insights, operational intelligence, and executive-ready reports** that improve efficiency, accuracy, and strategic planning. I have analyzed **thousands of records**, built **interactive BI dashboards**, reduced reporting errors, and improved reporting efficiency—ensuring stakeholders can confidently act on reliable data.
+
+I’m particularly interested in **business intelligence, product analytics, customer analytics, and performance optimization**, and I enjoy collaborating with cross-functional teams to translate business questions into **structured analysis, measurable KPIs, and actionable recommendations**. My long-term goal is to grow into a **Senior Data Analyst or Business Intelligence Analyst** role within a global, data-driven organization.
 
 ---
 
-##  Education  
+## Education
 
 - **Bachelor of Science (B.Sc.) in Marine Biology**  
-  _University of Lagos, Akoka, Lagos_ — **October 2021**  
+  _University of Lagos, Akoka, Lagos_ — **October 2021**
 
 - **Certificate in Data Analysis**  
   _IJAN Africa, Lagos_ — **January 2025**  
-  *Advanced Excel, SQL, Python, Power BI*
+  *Advanced Excel, SQL, Python, Power BI, Data Visualization*
 
 ---
 
-##  Core Competencies  
+## Core Competencies
 
-- Sales Performance Analysis  
-- Marketing Analytics & Web Insights  
-- Customer Behavior & Retention Analysis  
-- SQL, Python (Pandas, NumPy, SciPy)  
-- KPI Dashboard Development (Power BI, Excel)  
-- A/B Testing & Cohort Analysis  
-- Analytical Storytelling & Stakeholder Communication
+- Data Analysis & Business Intelligence  
+- KPI Tracking, Performance Monitoring & Reporting  
+- Customer Analytics, Retention & Trend Analysis  
+- Dashboard Development & Data Visualization  
+- SQL Querying & Data Exploration  
+- Data Cleaning, Transformation & Validation  
+- ETL Processes & Dataset Preparation  
+- Stakeholder Reporting & Insight Communication  
+- Operational Analytics & Decision Support  
 
 ---
 
-##  Technical Skills  
+## Technical Skills
 
 | Category | Tools & Expertise |
 |-----------|------------------|
-| **Analytics & BI Tools** | Power BI, Excel, Power Query |
-| **Programming** | SQL, Python (Pandas, NumPy, Matplotlib, SciPy) |
-| **Marketing Analytics** | Google Analytics, SEO basics, traffic attribution |
-| **Statistics** | A/B Testing, Forecasting, Clustering |
-| **Soft Skills** | Strategic Thinking, Problem-Solving, Communication |
-| **Creative Tools** | Canva (dashboards, visuals, presentations) |
+| **Business Intelligence & Visualization** | Power BI, Excel, Power Query, Dashboard Design, KPI Reporting |
+| **Data Analysis & Querying** | SQL (Joins, Aggregations, Filtering), Python (Pandas, NumPy, Matplotlib) |
+| **Data Processing & Management** | Data Cleaning, Transformation, Validation, ETL Workflows |
+| **Analytics & Statistics** | Descriptive Statistics, Trend Analysis, Performance Metrics |
+| **Reporting & Communication** | Insight Storytelling, Stakeholder Reporting, Business Documentation |
 
 ---
 
-##  Featured Sales & Marketing Projects  
+## Featured Data Analytics & BI Projects
 
 ### 🔹 [Retail Sales & Revenue Dashboard](https://github.com/M0Data/Retail-Sales-and-Revenue-Dashboard)
-- Analyzed multi-category furniture sales to uncover trends and seasonal performance shifts.  
-- Developed a revenue dashboard showing top products, customer segments, and profit insights.
+- Performed **sales data analysis and revenue trend reporting** across product categories.  
+- Built an **interactive business intelligence dashboard** highlighting **profitability, customer segments, and performance KPIs**.
 
-### 🔹 [Subscription & Customer-Behavior Analytics](https://github.com/M0Data/Subscription-and-Customer-Behavior-Analytics)
-- Led a data team analyzing user engagement, churn patterns, and revenue opportunities.  
-- Delivered insights to guide pricing, retention strategies, and content marketing direction.
+### 🔹 [Subscription & Customer Behavior Analytics](https://github.com/M0Data/Subscription-and-Customer-Behavior-Analytics)
+- Conducted **customer analytics, churn analysis, and retention trend evaluation** using SQL and BI tools.  
+- Delivered **data-driven insights** supporting **pricing optimization, lifecycle management, and revenue growth**.
 
 ### 🔹 [Customer Support & Sales Operations Dashboard](https://github.com/M0Data/Customer-Support-and-Sales-Operations-Analysis)
-- Built a performance dashboard analyzing call volume, agent efficiency, and customer experience.  
-- Linked support interactions to satisfaction scores and service bottlenecks.
+- Developed a **call-center performance and operational analytics dashboard** tracking **call volume, resolution rate, agent productivity, and customer satisfaction**.  
+- Identified **service inefficiencies and performance gaps** to support **operational improvement and decision-making**.
 
-### 🔹 [Web Traffic & Marketing Funnel Analysis](https://github.com/M0Data/Comprehensive-Web-Traffic-Analysis)
-- Analyzed marketing traffic sources and user behavior.  
-- Identified high-ROI channels and conversion opportunities.
-
-
+### 🔹 [Web Traffic & Conversion Analysis](https://github.com/M0Data/Comprehensive-Web-Traffic-Analysis)
+- Analyzed **user engagement, traffic sources, and conversion behavior** to evaluate **marketing and performance effectiveness**.  
+- Highlighted **high-impact channels and optimization opportunities** for improved ROI and growth.
 
 ---
 
-##  Achievements  
+## Key Achievements
 
-- Improved marketing and product decision-making through actionable customer insights.  
-- Delivered dashboards that increased reporting accuracy and reduced analysis time.  
-- Recognized for transforming complex data into **clear narratives** that influence leadership decisions.
-
----
-
-##  Let’s Connect  
-
--  **LinkedIn:** https://www.linkedin.com/in/moyin-odumewu  
--  **Portfolio:** https://m0data.github.io/MoyinOdumewu.github.io/  
--  **Email:** odumewumoyin@gmail.com  
--  **Location:** Lagos, Nigeria  
+- Delivered **business intelligence dashboards** that improved **reporting efficiency and decision clarity**.  
+- Transformed complex datasets into **actionable insights for operational and strategic planning**.  
+- Supported **data-driven performance monitoring, KPI tracking, and reporting automation**.  
 
 ---
+
+## Let’s Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/moyin-odumewu  
+- **Portfolio:** https://m0data.github.io/MoyinOdumewu.github.io/  
+- **Email:** odumewumoyin@gmail.com  
+- **Location:** Lagos, Nigeria  
